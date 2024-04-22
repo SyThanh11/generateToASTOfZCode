@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                var i <- 0
+                number j <- 0
+                for i until i <= 10 by 2
+                begin
+                    for j until j <= 20 by 4
+                        writeNumber(i*j)
+                end
+            end
+        
